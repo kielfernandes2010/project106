@@ -1,0 +1,76 @@
+body
+{
+    background: aquamarine;
+}
+
+.header_div
+{
+    background:brown;
+    color: chartreuse;
+}
+
+.header_div img
+{
+width: 100px;
+}
+
+.main_div
+{
+    background:antiquewhite;
+    padding:10px;
+    margin-top:15px;
+    border:3px solid azure;
+}
+
+.main_div label
+{
+    background:rgb(231, 218, 201);
+    width: 310px;
+    padding:10px;
+    margin-bottom:0px;
+    box-shadow:5px 5px 18px rgb(240, 241, 241);
+}
+
+#camera,#result
+{
+    border:2px solid white;
+    width: 310px;
+    height: 300px;
+    box-shadow:5px 5px 18px rgb(240, 241, 241);
+}
+
+.main_div button
+{
+    width: 310px;
+    font-size: 16px;
+    border: 1px solid;
+    box-shadow:5px 5px 18px rgb(240, 241, 241);
+}
+
+.footer_div
+{
+    margin-bottom: 50px;
+}
+
+.footer_div h4
+{
+    background:white;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px white;
+}
+
+.footer_div img
+{
+    width: 70px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color:turquoise;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+}
